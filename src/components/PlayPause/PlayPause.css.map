@@ -1,0 +1,1 @@
+{"version":3,"sourceRoot":"","sources":["../../globals.scss","PlayPause.scss"],"names":[],"mappings":";AAAA;AAKA;AAKA;AAGA;AAOA;AAIA;AAIA;AC1BA;EACI;EACA;;AAEA;EACI,ODmBI;EClBJ,QDkBI;ECjBJ,kBDRQ;ECSR,ODRU;ECSV;EACA,cDaO;ECZP;EACA;EACA;;AAEA;EACI,YDZE;;ACgBF;EACI;;AAIR;EACI;;AAEA;EACI;;;AAMhB;EACE;IAAO;;EACP;IAAO,YDjCK;;ECkCZ;IAAO,YDlCK;;ECmCZ;IAAO","file":"PlayPause.css"}
